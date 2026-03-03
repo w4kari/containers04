@@ -265,9 +265,9 @@ docker rm containers04
 
 ## Библиография
 
-1. Курс Moodle "Контейнеризация и виртуализация"
+1. Курс Moodle "Контейнеризация и виртуализация"   
    https://elearning.usm.md/course/view.php?id=6806
-2. Отличия между командами apt update и apt upgrade
+2. Отличия между командами apt update и apt upgrade   
    https://semenov-sherin.vivaldi.net/itsfoss-apt-update-vs-upgrade/
-3. Apache2. Установка и настройка.
+3. Apache2. Установка и настройка.   
    https://tokmakov.msk.ru/blog/item/774
